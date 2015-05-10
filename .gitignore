@@ -1,0 +1,28 @@
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Local configuration file
+local.properties
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Gradle files
+.gradle
+build/
+/*/build/
+
+# Android Studio
+*.iml
+.idea
+
+# Log files
+*.log

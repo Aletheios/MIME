@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MIME</string>
+    
+    <string name="menu_setbg">Set background</string>
+    <string name="menu_togglefps1">Show FPS meter</string>
+    <string name="menu_togglefps2">Hide FPS meter</string>
+    <string name="menu_studymode1">Enable study mode</string>
+    <string name="menu_studymode2">Disable study mode</string>
+    <string name="menu_savedbg1">Enable saved background</string>
+    <string name="menu_savedbg2">Disable saved background</string>
+    <string name="menu_recordbg">Record background</string>
+    <string name="menu_recordpos1">Record poses</string>
+    <string name="menu_recordpos2">Stop recording poses</string>
+    <string name="menu_showpos">Show list of poses</string>
+    <string name="menu_showrecognition1">Show recognized pose</string>
+    <string name="menu_showrecognition2">Don\'t show recognized pose</string>
+    <string name="menu_import">Import&#8230;</string>
+    <string name="menu_reset">Reset app</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="pref_0">Lower H threshold</string>
+    <string name="pref_1">Upper H threshold</string>
+    <string name="pref_2">Weighting H</string>
+    <string name="pref_3">Weighting S</string>
+    <string name="pref_4">Weighting V</string>
+    <string name="pref_5">Weighting B</string>
+    <string name="pref_6">Weighting threshold</string>
+    
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_record">Save pose</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_continue_left">Continue [LEFT]</string>
+    
+    <string name="mode_select">Select mode</string>
+    <string name="mode_icon">Iconic</string>
+    <string name="mode_text">Textual</string>
+    <string name="mode_base">Baseline</string>
+    
+    <string name="phase_select">Select phase</string>
+    <string name="phase_trial">Intro</string>
+    <string name="phase_training">Training</string>
+    <string name="phase_test">Short term retention</string>
+    <string name="phase_test2">Long term retention</string>
+    
+    <string name="message_delete_pose">Delete this pose?</string>
+    <string name="message_pose_deleted">Pose deleted successfully.</string>
+    <string name="message_pose_delete_error">Error deleting pose&#8230;</string>
+    <string name="message_pose_saved">New pose saved.</string>
+    <string name="message_confirm">Are you sure?</string>
+    <string name="message_exit_app">Exit application?</string>
+    <string name="message_error_importing_poses">Error importing poses.</string>
+    <string name="message_error_importing_background">Error importing background.</string>
+    <string name="message_import_successful">Successfully imported.</string>
+    
+    <string name="text_bgrecording">Background frames are being recorded.\nPress OK to save the recorded background and stop recording.</string>
+    <string name="text_enter_user_id">Enter user ID:</string>
+    <string name="text_lets_go">Welcome! Press "continue" to begin with the experiment.</string>
+    <string name="text_intro_phase_complete">The trial phase is completed. Please continue with the learning phase.</string>
+    <string name="text_training_phase_complete">The training phase is completed. Do you want to continue practicing for the test in one week?</string>
+    <string name="text_test_phase_complete">Experiment completed. Thanks!</string>
+    <string name="text_block_phase_complete">Block of poses completed. Press "continue" to repeat this block.</string>
+    <string name="text_trial_correct">Correct!</string>
+    <string name="text_trial_incorrect">Incorrect!\nPlease try again.</string>
+    <string name="text_trial_incorrect_nice">Not recognized correctly!\nPlease try again.</string>
+    <string name="text_trial_incorrect_short">Incorrect!</string>
+    <string name="text_trial_try_again">Please try again!</string>
+    <string name="text_trial_incorrect_but_never_mind">Not recognized correctly, but go on with next pose&#8230;</string>
+    <string name="text_trial_next">Continue with next pose&#8230;</string>
+    <string name="text_recognizer_wrong">Please answer honestly: Did you perform this very pose, but it was recognized incorrectly?</string>
+    <string name="text_test_ok">Thanks!</string>
+    
+    <string name="title_poses">Poses</string>
+    <string name="title_link_pose">Assign function</string>
+    <string name="title_phase_complete">Phase completed</string>
+    <string name="title_block_phase_complete">Block completed</string>
+    
+    <string name="image">Image</string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.lmu.ifi.medien.mime.MainActivity" >
+
+    <item
+        android:id="@+id/menu_setbg"
+        app:showAsAction="never"
+        android:orderInCategory="1"
+        android:title="@string/menu_setbg" />
+    
+    <item
+        android:id="@+id/menu_togglefps"
+        app:showAsAction="never"
+        android:orderInCategory="2"
+        android:title="@string/menu_togglefps1" />
+    
+    <item
+        android:id="@+id/menu_studymode"
+        app:showAsAction="never"
+        android:orderInCategory="3"
+        android:title="@string/menu_studymode1" />
+    
+    <item
+        android:id="@+id/menu_recordbg"
+        app:showAsAction="never"
+        android:orderInCategory="4"
+        android:title="@string/menu_recordbg" />
+    
+    <item
+        android:id="@+id/menu_savedbg"
+        app:showAsAction="never"
+        android:orderInCategory="5"
+        android:title="@string/menu_savedbg1" />
+    
+    <item
+        android:id="@+id/menu_recordpos"
+        app:showAsAction="never"
+        android:orderInCategory="6"
+        android:title="@string/menu_recordpos1" />
+    
+    <item
+        android:id="@+id/menu_showpos"
+        app:showAsAction="never"
+        android:orderInCategory="7"
+        android:title="@string/menu_showpos" />
+    
+    <item
+        android:id="@+id/menu_showrecognition"
+        app:showAsAction="never"
+        android:orderInCategory="8"
+        android:title="@string/menu_showrecognition1" />
+    
+    <item
+        android:id="@+id/menu_import"
+        app:showAsAction="never"
+        android:orderInCategory="9"
+        android:title="@string/menu_import" />
+    
+    <item
+        android:id="@+id/menu_reset"
+        app:showAsAction="never"
+        android:orderInCategory="10"
+        android:title="@string/menu_reset" />
+    
+    <item
+        android:id="@+id/menu_settings"
+        app:showAsAction="never"
+        android:orderInCategory="11"
+        android:title="@string/menu_settings" />
+
+</menu>
